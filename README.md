@@ -7,3 +7,4 @@ Este sencillo blog ha sido creado durante el dictado del "Curso Profesional de G
 - flujo de trabajo en GitHub
 - Buenas Practicas
 - comandos de terminal
+- incluye ejemplos en Windows, Linux y Mac
