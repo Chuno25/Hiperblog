@@ -6,4 +6,4 @@ Este sencillo blog ha sido creado durante el dictado del "Curso Profesional de G
 -  comandos de Git
 - flujo de trabajo en GitHub
 - Buenas Practicas
-
+- comandos de terminal
